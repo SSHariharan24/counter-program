@@ -1,0 +1,30 @@
+#myH1{
+text-align:center;
+font-size:5em;
+}
+
+#countlabel{
+display: block;
+text-align:center;
+font-size:10em;
+font-family:verdana;
+}
+
+#btnContainer{
+text-align:center;
+}
+
+.buttons{
+padding: 10px 20px;
+font-size: 1.5rem;
+color:white;
+background-color: red;
+border-radius:5px;
+cursor: pointer;
+transition:background-color 0.25s;
+}
+
+.buttons:hover{
+background-color: blue;
+}
+
